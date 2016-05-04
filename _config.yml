@@ -1,0 +1,28 @@
+name: AFEU Solutions
+favicon: null
+layout_spectrum: 0.6396984742023051
+typography_spectrum: 0.8224220355041325
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3763669887557626
+  lightness: 0.9615787307266146
+  saturation: 0.36153231491334736
+  rhythmicContrast: 0.587149258935824
+purpose: []
